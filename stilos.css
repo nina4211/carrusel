@@ -1,0 +1,19 @@
+.carousel-container {
+    text-align: center;
+    position: relative;
+  }
+  
+  #imagen {
+    max-width: 100%;
+    max-height: 400px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: aquamarine;
+    border-radius: 10%;
+  }
+  
